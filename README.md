@@ -2,7 +2,7 @@
 
 I'm based in London, originally from Chicago. My work spans music, interactive art, data, and software.
 
-Currently CTO at [iClarity Solutions](https://iclaritysol.com), building RetailFlow and the Agentic Context Mesh for agentic retail inventory - with or without cameras. Previously, I led technology at MediaCom (WPP) and software engineering and AI strategy at EssenceMediacom (WPP), with 100+ engineers across four continents. We built emChat, an Azure OpenAI platform used daily by thousands.
+Currently CTO at [iClarity Solutions](https://iclaritysol.com), building RetailFlow and the Agentic Context Mesh for agentic retail inventory - with or without cameras. Previously, I led technology at MediaCom (WPP) and software engineering at EssenceMediacom (WPP), with 100+ engineers across four continents. We built emChat, an Azure OpenAI platform used daily by thousands.
 
 Before that, I spent nine years at Warp Group. The work ranged from Aphex Twin's *Syro* launch via Tor and interactive music releases to Apple Music and YouTube negotiations through Merlin, the DDEX steering committee, and WarpSight, our data platform. Streaming data became something to negotiate for, then something to build products around.
 
